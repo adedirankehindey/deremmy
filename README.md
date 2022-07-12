@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kenny *Deremmy*
-- 👀 I’m interested in Software Development , Digital Marketing, Business Development.
+- 👀 I specialise in Software Development , Direct & Digital Marketing, Data Analytics.
 - 🌱 I’m available ...
 - 💞️ I’m looking to collaborate on several remote projects/tasks...
 - 📫 How to reach me via https://www.linkedin.com/in/deremmy
