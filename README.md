@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ADEDIRAN Kehinde *Deremmy*
-- 👀 I specialize in Software Development , Direct & Digital Marketing, Data Analytics.
+- 👀 I specialize in Data Analytics, Software Development, Digital Marketing,  Search Engine Optimization, Data Visualization.
 - 🌱 I’m available ...
 - 💞️ I’m looking to collaborate on several remote projects/tasks...
 - 📫 How to reach me via https://www.linkedin.com/in/deremmy
