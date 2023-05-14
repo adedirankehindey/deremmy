@@ -1,8 +1,11 @@
-- 👋 Hi, I’m ADEDIRAN Kehinde *Deremmy*
+- 👋 Hello, I’m ADEDIRAN Kehinde *Deremmy*
 - 👀 I specialize in Data Analytics, Web Development, Digital Marketing,  Search Engine Optimization, Data Visualization.
-- 🌱 I’m available ...
-- 💞️ I’m looking to collaborate on several projects/tasks...
+- 🔭 I’m available ⚡
+- 👯 I’m looking to collaborate on several projects/tasks...
 - 📫 How to reach me via https://www.linkedin.com/in/deremmy
+- 💻 My projects are available at www.adedirankehindey.netlify.app
+- 💬 How to reach me deremmy@gmail.com
+ 
 
 <!---
 deremmy/deremmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
