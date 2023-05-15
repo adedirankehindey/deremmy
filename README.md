@@ -3,7 +3,7 @@
 - 🔭 I’m available ⚡
 - 👯 I’m looking to collaborate on several projects/tasks...
 - 📫 How to reach me via https://www.linkedin.com/in/deremmy
-- 💻 My projects are available at adedirankehindey.netlify.app
+- 💻 My projects are available at adedirankehindey.com
 - 💬 How to reach me deremmy@gmail.com
  
 
